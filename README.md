@@ -20,3 +20,5 @@ Demo link: https://serverless-thumb-xi.vercel.app/
 
 
 ## Demonstração/demonstration
+
+![Gif](https://github.com/Rodrigo001-de/Dynamic-thumbnail-generator/blob/master/Thumbnail-gerador.gif)
